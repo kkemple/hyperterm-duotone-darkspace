@@ -23,8 +23,8 @@ exports.decorateConfig = config => {
 			slate,
       lightSlate,
       blue,
-			green,
-			lightGreen,
+			orange,
+			lightOrange,
 			gray,
 
 			// bright
@@ -32,8 +32,8 @@ exports.decorateConfig = config => {
 			slate,
       lightSlate,
       blue,
-			green,
-			lightGreen,
+			orange,
+			lightOrange,
 			brightWhite
 		],
 		css: `
