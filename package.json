@@ -17,7 +17,10 @@
   "author": "kurtiskemple@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kkemple/hyperterm-duotone-darksea/issues"
+    "url": "https://github.com/kkemple/hyperterm-duotone-darkspace/issues"
   },
-  "homepage": "https://github.com/kkemple/hyperterm-duotone-darksea#readme"
+  "homepage": "https://github.com/kkemple/hyperterm-duotone-darkspace#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
