@@ -40,9 +40,12 @@ exports.decorateConfig = config => {
 		colors: colors,
 		css: `
 			${config.css || ''}
-			.tab_active:before {
-				border-color: rgba(223, 103, 31, 0.25)
-			}
+            .tab_tab {
+                border: 0;
+            }
+            .tab_textActive {
+                border-bottom: 2px solid #df671f;
+            }
 		`
 	})
 }
