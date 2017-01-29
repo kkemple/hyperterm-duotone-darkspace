@@ -44,7 +44,7 @@ exports.decorateConfig = config => {
                 border: 0;
             }
             .tab_textActive {
-                border-bottom: 2px solid #df671f;
+                border-bottom: 2px solid ${oragne};
             }
 		`
 	})
